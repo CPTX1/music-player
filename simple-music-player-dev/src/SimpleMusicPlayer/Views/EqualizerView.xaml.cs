@@ -1,3 +1,5 @@
+// EqualizerView.xaml.cs
+
 ﻿using System;
 using System.Windows;
 using MahApps.Metro.SimpleChildWindow;
