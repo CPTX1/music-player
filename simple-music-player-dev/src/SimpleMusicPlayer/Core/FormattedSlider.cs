@@ -1,3 +1,5 @@
+//FormattedSlider.cs
+
 ﻿using System.Reflection;
 using System.Windows.Controls;
 using System.Windows.Controls.Primitives;

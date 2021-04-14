@@ -1,3 +1,5 @@
+// EqualizerBand.cs
+
 using System;
 using System.Globalization;
 using FMOD;

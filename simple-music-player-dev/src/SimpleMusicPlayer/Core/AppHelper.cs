@@ -1,3 +1,5 @@
+//AppHelper.cx
+
 ﻿using System;
 using System.IO;
 using System.Reflection;
